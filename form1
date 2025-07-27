@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGISTERATION FORM</title>
+    </head>
+    </body>
+    <h4> Sign up for volunteering</H4>
+<form action="C:\vsk.html\form.html">
+    <input type="submit" value="register now">
+</form>
+
+
+    </body>
+
+</html>
